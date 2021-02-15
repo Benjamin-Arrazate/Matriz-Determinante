@@ -1,0 +1,15 @@
+/Users/benjaminarrazate/Desktop/Matriz Determinante/bin/Debug/net5.0/Matriz Determinante.deps.json
+/Users/benjaminarrazate/Desktop/Matriz Determinante/bin/Debug/net5.0/Matriz Determinante.runtimeconfig.json
+/Users/benjaminarrazate/Desktop/Matriz Determinante/bin/Debug/net5.0/Matriz Determinante.runtimeconfig.dev.json
+/Users/benjaminarrazate/Desktop/Matriz Determinante/bin/Debug/net5.0/Matriz Determinante.dll
+/Users/benjaminarrazate/Desktop/Matriz Determinante/bin/Debug/net5.0/ref/Matriz Determinante.dll
+/Users/benjaminarrazate/Desktop/Matriz Determinante/bin/Debug/net5.0/Matriz Determinante.pdb
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.csprojAssemblyReference.cache
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.AssemblyInfoInputs.cache
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.AssemblyInfo.cs
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.csproj.CoreCompileInputs.cache
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.dll
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/ref/Matriz Determinante.dll
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.pdb
+/Users/benjaminarrazate/Desktop/Matriz Determinante/obj/Debug/net5.0/Matriz Determinante.genruntimeconfig.cache
